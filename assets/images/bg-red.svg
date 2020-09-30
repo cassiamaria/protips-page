@@ -1,0 +1,14 @@
+<svg width="1110" height="301" viewBox="0 0 1110 301" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1110" height="301" rx="10" fill="#FF4F4F"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="1110" height="301">
+<rect width="1110" height="301" rx="10" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<circle opacity="0.0633836" cx="900.5" cy="-37.5" r="129.5" fill="white"/>
+<circle opacity="0.0633836" cx="256.5" cy="338.5" r="129.5" fill="white"/>
+<circle opacity="0.0633836" cx="1008" cy="-18" r="80" fill="white"/>
+<circle opacity="0.0633836" cx="378" cy="330" r="80" fill="white"/>
+<circle opacity="0.0633836" cx="758.5" cy="-52.5" r="114.5" fill="white"/>
+<circle opacity="0.0633836" cx="101.5" cy="364.5" r="114.5" fill="white"/>
+</g>
+</svg>
